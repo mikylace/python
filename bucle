@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+#.*. coding: utf-8 .*.
+
+edad=0
+while edad<13000000:
+	print edad
+	edad=edad+1
